@@ -10,4 +10,4 @@
 I used the **pyautogui** python library in order to be able to control the mouse on the screen.
 I also used the **time** library to create sleep delays that will wait a certain amount of time (in our case, 1 hour) to perform the wanted functions.
 
-I used a simple while loop that will wait 3,600 seconds, or 1 hour, and then trigger a slight mouse movement that will be recognized as activity by the streaming service and the video will not ask "Are You Still Watching?" and eventually time out. 
+I used a simple while loop that will wait 3,600 seconds, or 1 hour, and then trigger a slight mouse movement that will be recognized as activity by the streaming service. The video will not ask "Are You Still Watching?" and eventually time out. 
