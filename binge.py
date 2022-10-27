@@ -7,6 +7,9 @@ import pyautogui
 
 # REMEMBER: The upper left corner of the computer screen is (0,0)
 
+time.sleep(2)
+print("Binge Watch Bot is now active")
+
 while True:
     pyautogui.moveTo(500, 350) # moves mouse to somewhere in the middle of the screen (ok if not exactly in center - bot will work)
 
